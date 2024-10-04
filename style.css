@@ -1,0 +1,46 @@
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    font-style: italic;
+}
+.right-nav{
+    margin-left: 20px;
+    display: flex;
+    column-gap: 20px;
+    font-style: italic;
+    font-size: 20px;
+}
+.nav-logo{
+    display: flex;
+    font-size: 20px;
+    font-style: italic;
+}
+.body{
+    background-color: burlywood;
+    padding-top: 50px;
+    padding-left: 1%;
+    padding-right: 50%;
+    padding-bottom: 20%;
+    display:flex;
+    justify-content: space-around;
+}
+img{
+    width: 500px;
+    height: 300px;
+    margin-left: 50px;
+    border-width: 20px;
+}
+.body .title{
+    display: flex;
+    justify-content: space-around;
+    display: table-column;    
+}
+.title-des{
+    width: 200px;
+}
+.below{
+    font-size: 20px;
+    
+}
